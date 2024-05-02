@@ -12,5 +12,5 @@ To install the absolute latest, currently testing version:
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/MakerGear/MakerGear_OctoPrint_Setup/archive/master.zip
+    https://github.com/aluminum-ice/MakerGear_OctoPrint_Setup/archive/master.zip
 
